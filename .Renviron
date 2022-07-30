@@ -1,0 +1,22 @@
+#  ------------------------------------------------------------------------
+#
+# Title : .Renviron - Jimmy Briggs
+#    By : Jimmy Briggs
+#  Date : 2021-04-13
+#
+#  ------------------------------------------------------------------------
+
+R_PROJ_DIR="~/Dev"
+R_ARCH="x64"
+R_INSTALL_TAR="tar.exe"
+FULLNAME="Jimmy Briggs"
+LANGUAGE="en-US"
+ORC_ID="0000-0002-7489-8787"
+GITHUB_USERNAME="jimbrig"
+PATH="${RTOOLS42_HOME}\usr\bin;${PATH}"
+R_QPDF="~/scoop/shims/qpdf.exe"
+R_GSMD="~/scoop/shims/gswin64c.exe"
+JAVA_HOME="C:/Program Files/ojdkbuild/java-17-openjdk-17.0.3.0.6-1/bin"
+
+# TMPDIR="C:/tmp"
+# TWITTER_PAT="~/.R/.rtweet_token.rds"
