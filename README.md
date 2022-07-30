@@ -2,6 +2,11 @@
 
 > ~/.config/R/* Contents
 
+See also: 
+
+- [jimbrig/configR](https://github.com/jimbrig/configR): an R package meant to support a setup like this.
+- [jimbrig/XDG_CONFIG_HOME_R](https://github.com/jimbrig/XDG_CONFIG_HOME_R): XDG Compliant R Configuration and Setup on Windows.
+
 ## Customized Setup
 
 I have placed all R specific configurations into my `%HOME%` path's `.config\R` directory and included the following contents:
