@@ -1,0 +1,22 @@
+default:
+
+  secrets:
+    local_path: "~/.config/R/config/secrets.Renviron"
+    id: <GITHUB_GIST_ID>
+    url: https://gist.githubusercontent.com/jimbrig/<ID>/raw/<FILEID>/secrets.Renviron
+    
+   shinyappsio:
+     account1:
+       account-id:
+       account-name:
+       email:
+       token:
+       secret:
+       setup-command: "rsconnect::setAccountInfo(name='', token='', secret='')"
+     account2:
+       account-id:
+       account-name:
+       email:
+       token:
+       secret:
+       setup-command: "rsconnect::setAccountInfo(name='', token='', secret='')"
